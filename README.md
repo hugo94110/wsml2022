@@ -1,4 +1,4 @@
-# WSML 1.0
+# WSML 1.0 (2022 Work Archive)
 
 [![Stars](https://badgen.net/github/stars/Math9898/WSML?icon=github&color=4ab8a1)](https://github.com/Math9898/WSML)
 [![Forks](https://badgen.net/github/forks/Math9898/WSML?icon=github&color=4ab8a1)](https://github.com/Math9898/WSML)
