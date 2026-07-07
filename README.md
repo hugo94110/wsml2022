@@ -47,15 +47,8 @@ Lastest version : `1.0`
 
 WSML's consolidated interface is very intuitive. To launch a web server, simply select option 1. If you wish to modify the port or root folder path, select option 2 and then make the modifications of your choice. To change the default color, select option 3 and choose the color of your choice. More options will be added in future updates.
 
-## Overview
-![Image1](https://github.com/Math9898/WSML/blob/cdd01f116aa0b3852376bfef77226264c3292fc3/img/ScreenShot1.PNG) ![Image2](https://github.com/Math9898/WSML/blob/aa74740f7d586107e9ab06de4219d2926ac52ecf/img/ScreenShot2.png)
-
 ## Compatible platform
 
 - Windows 10/11 : ✔️
 - Linux (Ubuntu, kali linux...) : **Not tested**
 - Mac OS : **Not tested**
-
-## Credits
-
-Tool created by Math9898 : https://github.com/Math9898
