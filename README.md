@@ -1,9 +1,9 @@
 # WSML 1.0 (2022 Work Archive)
 
-[![Stars](https://badgen.net/github/stars/Math9898/WSML?icon=github&color=4ab8a1)](https://github.com/Math9898/WSML)
-[![Forks](https://badgen.net/github/forks/Math9898/WSML?icon=github&color=4ab8a1)](https://github.com/Math9898/WSML)
-[![Release](https://img.shields.io/github/release/Math9898/WSML)](https://github.com/Math9898/WSML/releases/)
-[![Downloads](https://img.shields.io/github/downloads/Math9898/WSML/total)](https://github.com/Math9898/WSML/releases/)
+[![Stars](https://badgen.net/github/stars/hugo94110/wsml2022?icon=github&color=4ab8a1)](https://github.com/Math9898/WSML)
+[![Forks](https://badgen.net/github/forks/hugo94110/wsml2022?icon=github&color=4ab8a1)](https://github.com/Math9898/WSML)
+[![Release](https://img.shields.io/github/release/hugo94110/wsml2022)](https://github.com/Math9898/WSML/releases/)
+[![Downloads](https://img.shields.io/github/downloads/hugo94110/wsml2022/total)](https://github.com/Math9898/WSML/releases/)
 
 **WSML** (**W**eb **S**erver **M**anager/**L**auncher) is a network [Python](https://www.python.org) tool for creating a local server on your computer. The tool features a range of customization options, making it easy to use for all users, from beginners to experts.
 
